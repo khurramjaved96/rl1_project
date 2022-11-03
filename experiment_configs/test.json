@@ -1,0 +1,42 @@
+{
+  "experiment": {
+    "name": "test",
+    "params": {
+      "seed": [
+        "20"
+      ],
+      "steps": [
+        "250000"
+      ],
+      "method": [
+        "util_prop",
+        "util_prop_relative",
+        "linear_assumption"
+      ],
+      "non_linearity": [
+        "linear"
+      ],
+      "vertices": [
+        "4"
+      ],
+      "decay": [
+        "0.999"
+      ],
+      "input_vertices": [
+        "2"
+      ],
+      "edges": [
+        "3"
+      ],
+      "input_mean": [
+        "0.0"
+      ],
+      "input_std": [
+        "1.0"
+      ],
+      "weight_range": [
+        "-1:1"
+      ]
+    }
+  }
+}
